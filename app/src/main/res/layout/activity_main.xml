@@ -225,7 +225,7 @@
                         android:textSize="25dp">
                     </Button>
                     <Button
-                        android:id="@+id/biny"
+                        android:id="@+id/biners"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
